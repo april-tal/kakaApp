@@ -1,0 +1,38 @@
+.search header{
+  background: url('../images/u62.png');
+  background-repeat: no-repeat;
+  background-size: 100vw 8vh;
+  padding: 3%;
+  margin-bottom: -1%;
+  color: #fff;
+}
+.search header a{
+  margin-top: 1.5%;
+  color: #fff;
+}
+.search header .inp{
+  position: relative;
+  width: 83%;
+  display: inline-grid;
+  margin-left: 4%;
+  margin-right: 2%;
+}
+
+.search header .inp img{
+  width: 5%;
+  height: 52%;
+  position: absolute;
+  right: 5%;
+  top: 24%;
+}
+.search .main{
+  background-color: #fff;
+  width: 100vw;
+  height: 100vh;
+}
+.search .main img{
+  width: 43%;
+  height: 20%;
+  margin-top: 67%;
+  margin-left: 30%;
+}

@@ -1,0 +1,93 @@
+.integralrecharge .head{
+  background: url('../images/u62.png');
+  background-repeat: no-repeat;
+  background-size: 100% 91%;
+  padding: 3.6%;
+  margin-bottom: -1%;
+  color: #fff;
+  position: relative;
+  font-size: 145%;
+  font-weight: bold;
+}
+.integralrecharge .head a{
+  width: 9%;
+  height: 9%;
+  color: #fff;
+  font-size: 72%;
+  font-weight: 100;
+  display: inline-block;
+}
+.integralrecharge .head span{
+  color: #fff;
+  margin-left: 33%;
+}
+.withdrawals{
+  width: 96%;
+  background: #fff;
+  margin: 0 auto;
+  margin-top: 4%;
+  border-radius: 6px;
+  padding: 2% 7%;
+}
+.withdrawals p{
+  display: flex;
+  margin-bottom: 13%;
+}
+.withdrawals p span{
+  width: 40%;
+  display: block;
+}
+.withdrawals p .CardNumber{
+  color: green;
+}
+.withdrawals .service{
+  margin-left: 40%;
+  margin-top: -12%;
+  margin-bottom: 4%;
+  color: #999;
+}
+.withdrawals p input{
+  outline: none;
+  border: none;
+  border-bottom: 1px solid #ccc;
+  width: 100%;
+  text-indent: 10%;
+  font-size: 160%;
+  text-indent: 12%;
+}
+.withdrawals p .money{
+  font-size: 185%;
+  position: absolute;
+  top: 36%;
+  left: 10%;
+  display: inline;
+  width: 0;
+  z-index: 99;
+}
+.withdrawals .balance{
+  margin-top: -8%;
+}
+.withdrawals .balance span{
+  color: green;
+}
+.withdrawals .arrival{
+  justify-content: center;
+  margin-bottom: 4%;
+  margin-top: 4%;
+}
+.withdrawals a{
+  background: url('../images/u62.png');
+  background-repeat: no-repeat;
+  background-size: 100vw 8vh;
+  background-position: center;
+  width: 78%;
+  margin: 0 auto;
+  display: block;
+  text-align: center;
+  color: #fff;
+  border-radius: 6px;
+  padding: 3%;
+  margin-top: 13%;
+  font-size: 120%;
+  font-weight: bold;
+}

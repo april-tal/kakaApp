@@ -1,0 +1,24 @@
+.head{
+  background: url('../images/u62.png');
+  background-repeat: no-repeat;
+  background-size: 100% 91%;
+  padding: 2%;
+  margin-bottom: -1%;
+  color: #fff;
+  position: relative;
+  font-size: 145%;
+  font-weight: bold;
+}
+.head a{
+  width: 7%;
+  height: 7%;
+  display: inline-block;
+}
+.head span{
+  color: #fff;
+  margin-left: 33%;
+}
+.head a img{
+  width: 100%;
+  height: 100%;
+}

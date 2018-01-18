@@ -1,0 +1,18 @@
+.exchange .head a{
+  color: #fff;
+  font-size: 76%;
+  width: 8%;
+}
+.exchange .withdrawals img{
+  width: 17%;
+  height: 17%;
+  display: block;
+  margin: 0 auto;
+  margin-top: 2%;
+}
+.exchange .withdrawals p{
+  margin-bottom: 5%;
+}
+.exchange .withdrawals .balance{
+  margin-top: 0;
+}
